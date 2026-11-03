@@ -1,0 +1,9 @@
+{
+  "name": "sipandai-sdn1-sukomulyo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"vite","build":"tsc -b && vite build","preview":"vite preview"},
+  "dependencies": {"@vitejs/plugin-react":"latest","@tailwindcss/vite":"latest","firebase":"latest","lucide-react":"latest","react":"latest","react-dom":"latest","tailwindcss":"latest","typescript":"latest","vite":"latest","xlsx":"latest"},
+  "devDependencies": {}
+}
